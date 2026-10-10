@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+.sesskey
+*.backup
